@@ -1,0 +1,115 @@
+.topbutton{
+    /* Create Outfit */
+    position: absolute;
+    width: 346px;
+    height: 259px;
+    left: 691px;
+    top: 78px;
+    
+    background: #D9D9D9;
+
+
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+
+}
+
+.rightbutton {
+      /*suggested accessories*/
+
+    background: #D9D9D9;
+
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    position: absolute;
+width: 346px;
+height: 259px;
+left: 1162px;
+top: 439px;
+
+background: #D9D9D9;
+
+
+
+}
+
+.leftbutton{
+    /*Add clothes*/
+
+    background: #D9D9D9;
+
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    position: absolute;
+width: 346px;
+height: 259px;
+left: 237px;
+top: 449px;
+
+background: #D9D9D9;
+
+}
+
+.bottombutton{
+      /*Random outfit*/
+
+    background: #D9D9D9;
+
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    position: absolute;
+width: 346px;
+height: 259px;
+left: 710px;
+top: 823px;
+
+background: #D9D9D9;
+
+}
+
+
+.outfit{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 493px;
+height: 331px;
+left: 630px;
+top: 409px;
+
+background: #D9D9D9;
+
+
+
+
+}
+
+/* Main Page */
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
